@@ -1,0 +1,44 @@
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+!.env.example
+
+# Logs
+*.log
+
+# Node.js
+node_modules/
+
+# Frontend build
+frontend/build/
+frontend/dist/
+
+# Backend build
+backend/target/
+
+# Maven wrapper (keep)
+!.mvn/wrapper/maven-wrapper.jar
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Local cache
+.cache/
+.npm/
+
+# Coverage
+coverage/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
